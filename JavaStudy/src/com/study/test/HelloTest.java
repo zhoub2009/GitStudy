@@ -9,6 +9,10 @@ public class HelloTest {
 		//11¿Õ¼äÌá½»
 		//SIT»·¾³Ìá½»²âÊÔ
 		//DEV²âÊÔÌá½»
+<<<<<<< Upstream, based on origin/master
 		//SIT»·¾³ºóÌá½»²âÊÔ
+=======
+		//DEVÎ´¸üÐÂ²âÊÔÌá½»
+>>>>>>> 3c8615d DEVæœªæ›´æ–°æµ‹è¯•æäº¤
 	}
 }
